@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");
 }
 body {
   color: #fff;
