@@ -121,7 +121,7 @@ body {
 
 .mastfoot {
   color: #f2f2f2; /* IE8 proofing */
-  color: rgba(255,255,255,.5);
+  color: white;
 }
 
 
