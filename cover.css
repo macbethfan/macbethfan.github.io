@@ -28,7 +28,8 @@ html,
 body {
   height: 100%;
   background-image: url("http://beardedgentlemenmusic.com/wp-content/uploads/2014/09/brand-new.jpg");
-  background-size: contain;
+  width: 50%;
+  max-width: 1080px;
 }
 body {
   color: #fff;
