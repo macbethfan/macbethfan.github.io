@@ -27,28 +27,29 @@ a:hover {
 
 html,
 body {
-  height: 100%;
-  background-image: url("http://beardedgentlemenmusic.com/wp-content/uploads/201
+  height: 100%;
+  background-image: url("http://beardedgentlemenmusic.com/wp-content/uploads/201
 4/09/brand-new.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;  
-  webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;  
+  webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 /* Portrait */
 @media only screen
-  and (min-device-width: 320px)
-  and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) {
-        body{
-                background-image: url("http://www.rocksound.tv/assets/uploads/brandnew1300.jpg");
-        }
-}  
+and (min-device-width: 320px)
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) 
+{
+       body{
+            background-image: url("http://www.rocksound.tv/assets/uploads/brandnew1300.jpg");
+           }
+}
 
 body {
   color: #fff;
